@@ -1,4 +1,4 @@
-a=input("What is your height in cm?: ")
+a=input("Enter your height in cm: ")
 a=int(a)
 inch=a/2.54
 feet=int(inch/12)
