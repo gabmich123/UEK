@@ -1,0 +1,6 @@
+a=input("What is your height in cm?: ")
+a=int(a)
+inch=a/2.54
+feet=int(inch/12)
+inch=inch-(feet*12)
+print(f"I am {a} cm tall, i.e. {feet} feet and {inch} inches.")
