@@ -1,0 +1,2 @@
+def occurs(number, array):
+    
