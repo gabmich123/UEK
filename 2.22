@@ -1,7 +1,0 @@
-import random
-x1=random.randint(1, 6)
-x2=int(input("Chose a number between 1-6: "))
-while x2!=x1:
-    print("False")
-    x2=int(input("Chose a number between 1-6: "))
-print("True")
